@@ -19,4 +19,4 @@ def contact():
   return render_template('contact.html', phone = 7442457)
 
 if __name__ == '__main__':
-  app.run(host='0.0.0.0', port = 5222, threaded = True, debug = True)publiski
+  app.run(host='0.0.0.0', port = 5222, threaded = True, debug = True)
